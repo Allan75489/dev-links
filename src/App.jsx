@@ -1,4 +1,4 @@
-import BioLinks from './components/BioLinks';
+import BioLinks from "./components/Biolinks"
 
 
 function App() {
