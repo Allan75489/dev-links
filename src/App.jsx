@@ -1,4 +1,5 @@
 import BioLinks from "./components/Biolinks"
+import "./components/Animacao"
 
 
 function App() {
