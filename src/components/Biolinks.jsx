@@ -28,7 +28,7 @@
 
             <div className="flex flex-col items-center">
                 
-                <div className="relative z-10">
+                <div className="relative z-20">
                 <img
                 src="/foto.jpg"
                     alt="Foto de perfil"
