@@ -1,11 +1,14 @@
-    import { FaGithub, FaLinkedin, FaWhatsapp, FaEnvelope, FaInstagram } from "react-icons/fa";
+    import { FaGithub, FaLinkedin, FaWhatsapp, FaEnvelope, FaInstagram, FaPasta} from "react-icons/fa";
     import Animacao from "./Animacao";
     const links = [
         { icon: <FaGithub />, label: 'Meu GitHub', url: 'https://github.com/Allan75489' },
         { icon: <FaLinkedin />, label: 'Meu Linkedin', url: 'https://www.linkedin.com/in/allan-gustavo-da-silva-carvalho-ba97813b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
         { icon: <FaWhatsapp />, label: 'Meu Whatsapp', url: 'https://wa.me/5583991998747' },
         {icon: <FaEnvelope />,label: "E-mail", url: "mailto:alangustavodasilvacarvalho@gmail.com"},
-        { icon: <FaInstagram />, label: "Instagram",url: "https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ=="}
+        { icon: <FaInstagram />, label: "Instagram",url: "https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ=="},
+        { icon: <FaPasta />,  label: "Portfólio",  url: "https://portfolio-pi-ochre-hvtu0pqy8g.vercel.app"
+
+},
         
         ];
 
