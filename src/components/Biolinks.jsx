@@ -6,7 +6,7 @@
         { icon: <FaWhatsapp />, label: 'Meu Whatsapp', url: 'https://wa.me/5583991998747' },
         {icon: <FaEnvelope />,label: "E-mail", url: "mailto:alangustavodasilvacarvalho@gmail.com"},
         { icon: <FaInstagram />, label: "Instagram",url: "https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ=="},
-        { icon: <FaBriefcase  />,  label: "Portfólio",  url: "https://portfolio-pi-ochre-hvtu0pqy8g.vercel.app"},
+        { icon: <FaBriefcase  />,  label: "Portfólio",  url: "allan-gustavo-portifolio.vercel.app"},
         
         ];
 
